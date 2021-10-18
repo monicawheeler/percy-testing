@@ -1,3 +1,3 @@
 # percy-testing
 
-👋 Howdy there.
+👋 Howdy there
